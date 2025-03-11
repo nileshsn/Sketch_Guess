@@ -14,12 +14,3 @@ cd Sketch_Guess
 npm install
 npm run dev
 ```
-
-## 📁 Folder Structure
-
-├── components   # Reusable components
-├── hooks        # Custom React hooks
-├── lib          # Utility functions
-├── public       # Static assets
-├── styles       # Tailwind CSS files
-└── app          # Next.js pages and routing
